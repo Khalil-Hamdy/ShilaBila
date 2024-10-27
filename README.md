@@ -1,5 +1,5 @@
-# ShilaBila
-ShilaBila is an innovative e-commerce application where merchants can easily list a wide variety of products, from everyday items to specialty goods. Users can browse, select, and order products with just a few taps, enjoying fast and reliable delivery straight to their door. Designed for both merchants and customers, ShilaBila prioritizes convenience, accuracy, and speed, making online shopping a seamless experience.
+# shelabela
+shelabela is an innovative e-commerce application where merchants can easily list a wide variety of products, from everyday items to specialty goods. Users can browse, select, and order products with just a few taps, enjoying fast and reliable delivery straight to their door. Designed for both merchants and customers, ShilaBila prioritizes convenience, accuracy, and speed, making online shopping a seamless experience.
 
 ## Key Features:
 -Merchant-Friendly Interface: Allows vendors to easily upload and manage their products, including descriptions, images, and prices.
@@ -40,6 +40,9 @@ ShilaBila is an innovative e-commerce application where merchants can easily lis
 
 -MVVM Architecture: Clean architecture pattern that promotes testability and separation of concerns.
 
+## google play link:
+
+https://play.google.com/store/apps/details?id=com.shelabela.bela1
 
 ## communication
 For more information, feel free to reach out:
